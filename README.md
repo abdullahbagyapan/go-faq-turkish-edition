@@ -13,7 +13,7 @@
 
 * Kökenler
     * [Bu projenin amacı nedir ?](origins/what-is-the-purpose-of-the-project.md)
-    * Bu projenin geçmişi nedir ?
+    * [Bu projenin geçmişi nedir ?](origins/what-is-the-history-of-the-project.md)
     * *Gopher* maskotunun hikayesi nedir ?
     * *Go* mu yoksa *Golang* mi ?
     * Neden yeni bir dil yarattınız ?
