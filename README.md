@@ -1,0 +1,113 @@
+# Sık Sorulan Sorular (SSS)
+
+> **Çevirmen Notu**
+>
+> Bu döküman [Frequently Asked Questions (FAQ)](https://go.dev/doc/faq) adlı yazıdan tercüme edilmiştir.
+>
+> Yazım veya çeviri yanlışı gördüğünüz yerleri bildirirseniz çok sevinirim.
+>
+> Son güncelleme tarihi: *24/1/2024*
+
+
+## İçerik
+
+* Kökenler
+    * Bu projenin amacı nedir ?
+    * Bu projenin geçmişi nedir ?
+    * *Gopher* maskotunun hikayesi nedir ?
+    * *Go* mu yoksa *Golang* mi ?
+    * Neden yeni bir dil yarattınız ?
+    * Go nereden esinlenildi ?
+    * Go'nun tasarımındaki yol göstericiler nelerdir ?
+* Kullanım
+    * Google kendi içinde Go kullanıyor mu ?
+    * Başka hangi şirketler Go'yu kullanıyor ?
+    * Go, C/C++ ile beraber çalışabilir mi ?
+    * Hangi *IDE*ler Go'yu destekliyor ?
+    * Go, Google'ın *protocol buffer*'ını destekliyor mu ?
+    * Go'nun anasayfasını başka bir dile tercüme edebilir miyim ?
+* Dizayn
+    * Go *runtime*'a sahip mi ?
+    * Unicode tanımlayıcılarından ne haber ?
+    * Neden Go *X* özelliğine sahip değil ?
+    * Go'ya *generic* yapılar ne eklendi ? 
+    * Go yayınlandığında neden generic tipler eklenmedi ?
+    * Neden Go'da *exception*'lar yok ?
+    * Neden Go'da *assertion*'lar yok ?
+    * Neden CSP'ye göre *concurrency* inşa edildi ?
+    * Neden *thread*'ler yerine *goroutine*'ler ?
+    * Neden *map* işlemleri *atomic* değil ?
+    * Değiştirdiğim özellikleri kabul edecek misiniz ?
+* Türler
+    * Go, *object-oriented* bir dil mi ?
+    * Methodları nasıl dinamik yaparım ?
+    * Neden *inheritance* yok ?
+    * Neden *len* bir fonksiyon, ve neden bir method değil ?
+    * Neden Go, methodlarda ve operatörlerde *overloading*i desteklemiyor ?
+    * Neden Go'da *implement* tanımı yok ?
+    * Nasıl type'ımın *interface*'i karşıladığını bilirim ?
+    * Neden *T* type'ı *interface*'e eşit değil ?
+    * []T'yi []interface'e çevirebilir miyim ?
+    * Eğer []1 ve []2 aynı type'dan geliyorsa, birbirlerine dönüştürebilir miyim ?
+    * Neden *nil error*'um *nil*'e eşit değil ?
+    * Neden *union*'lar yok, tıpkı *C*'deki gibi ?
+    * Neden Go'nun *variant type*'lar yok ?
+    * Neden Go'nun *covariant result type*'ları yok ?
+* Değerler
+    * Neden Go sayılar arası dönüşüm sağlamıyor ?
+    * Go'da *constant*'lar nasıl çalışıyor ?
+    * Neden *map*'ler *built in* geliyor ?
+    * Neden *map*'ler *slice*'ları *key* olarak kabul etmiyor ?
+    * Neden *array*'ler değer iken, *map*'ler *slice*'lar ve *channel*'lar referans tipinde ?
+* Kod Yazımı
+    * Kütüphaneler nasıl belgelendi ?
+    * Go programlama stili için bir rehber var mı ?
+    * Yamaları nasıl Go kütüphanelerinde paylaşırım ?
+    * Neden "*go get*", repository klonlarken HTTPS kullanıyor ?
+    * "*go get*" kullanırken paket versiyonlarını nasıl yönetmeliyim ?
+* Pointer'lar ve Allocation
+    * Ne zaman fonksiyon parametreleri değer olarak geçilmeli ?
+    * Ne zaman interface yerine pointer kullanmalıyım ?
+    * Değer üzerine veya pointer üzerine method tanımlamalıyım ?
+    * *new* ve *make* arasındaki fark nedir ?
+    * 64 bit makinede *int*'ın boyutu nedir ?
+    * Bir değişkenin *heap*'temi yoksa *stack*'temi tanımlandığını nereden bileceğim ?
+    * Neden Go process'ler çok fazla sanal hafıza kullanıyor ?
+* Concurrency
+    * Hangi işlemler *atomic* ? Peki ya *mutex*'ler ?
+    * Programım daha çok cpu ile neden daha hızlı çalışmıyor ?
+    * Cpu sayısını nasıl kontrol ederim ?
+    * Neden *goroutine*'lerin id'si yok ?
+* Fonksiyonlar ve Methodlar
+    * Neden T ve *T farklı methodlara sahip ?
+    * *Closure*'lar goroutine gibi çalışsa ne olur ?
+* Akış Kontrolu
+    * Neden Go'da *?:* operatörü yok ?
+* Type Parametreleri
+    * Neden Go'da type parametreleri var ?
+    * *Generic* yapılar Go'ya nasıl eklendi ?
+    * Go'daki *generic*'ler ile diğer dillerdeki *generic*'ler arasıdaki farklar ?
+    * Neden Go, type parametre listesi için köşeli parantez kullanıyor ?
+    * Neden Go, type parametreli methodları desteklemiyor ?
+    * Neden parametreli type için daha specific bir type kullanamıyorum ?
+    * Neden derleyici, type argumanından anlam çıkarmıyor ?
+* Paketler ve Testler
+    * Nasul çok dosyalı bir paket oluştururum ?
+    * Nasıl *unit test* yazarım ?
+    * Test için favori yardımcı fonksiyonum nerede?
+    * Neden *X* standart kütüphanede yok ?
+* Implementation
+    * Derleyiciler için hangi teknolojiler kullanıldı ?
+    * *run-time* desteği nasıl eklendi ?
+    * Küçük programımın boyutu neden çok fazla ?
+    * Kullanılmayan değişken/import'ların uyarısını kapatabilir miyim ?
+    * Neden antivirüs programım Go'nun zararlı olduğunu düşünüyor ?
+* Performans
+    * Neden *X* benchmarkında Go kötü performans gösteriyor ?
+* C'den Değişiklikler
+    * Neden *syntax* C'den çok farklı ?
+    * Neden tanımlamalar geriye doğru yapılıyor ?
+    * Neden pointer aritmetiği yok ?
+    * Neden *++* ve *--* *statement* neden *expression* değil ? Ve neden *postfix* neden *prefix* değil ?
+    * Süslü parantez var ama neden noktalı virgül yok ? Ve neden süslü paraztezi yeni satırdan başlatamıyorum ?
+    * *garbage collection* neden yapıldı ? Çok pahalı olmaz mı ?
