@@ -14,7 +14,7 @@
 * Kökenler
     * [Bu projenin amacı nedir ?](origins/what-is-the-purpose-of-the-project.md)
     * [Bu projenin geçmişi nedir ?](origins/what-is-the-history-of-the-project.md)
-    * *Gopher* maskotunun hikayesi nedir ?
+    * [*Gopher* maskotunun hikayesi nedir ?](origins/what-is-the-origin-of-the-gopher-mascot.md)
     * *Go* mu yoksa *Golang* mi ?
     * Neden yeni bir dil yarattınız ?
     * Go nereden esinlenildi ?
