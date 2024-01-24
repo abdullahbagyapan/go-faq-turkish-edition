@@ -12,7 +12,7 @@
 ## İçerik
 
 * Kökenler
-    * Bu projenin amacı nedir ?
+    * [Bu projenin amacı nedir ?](origins/what-is-the-purpose-of-the-project.md)
     * Bu projenin geçmişi nedir ?
     * *Gopher* maskotunun hikayesi nedir ?
     * *Go* mu yoksa *Golang* mi ?
