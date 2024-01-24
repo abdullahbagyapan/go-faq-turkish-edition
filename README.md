@@ -18,7 +18,7 @@
     * [*Go* mu yoksa *Golang* mi ?](origins/is-the-language-called-go-or-golang.md)
     * [Neden yeni bir dil yarattınız ?](origins/why-did-you-create-a-new-language.md)
     * [Go nereden esinlenildi ?](origins/what-are-go-ancestors.md)
-    * Go'nun tasarımındaki yol göstericiler nelerdir ?
+    * [Go'nun tasarımındaki yol göstericiler nelerdir ?](origins/what-are-the-guiding-principles-in-the-design.md)
 * Kullanım
     * Google kendi içinde Go kullanıyor mu ?
     * Başka hangi şirketler Go'yu kullanıyor ?
