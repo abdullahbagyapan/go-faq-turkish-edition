@@ -21,7 +21,7 @@
     * [Go'nun tasarımındaki yol göstericiler nelerdir ?](origins/what-are-the-guiding-principles-in-the-design.md)
 * Kullanım
     * [Google kendi içinde Go kullanıyor mu ?](usage/is-google-using-go-internally.md)
-    * Başka hangi şirketler Go'yu kullanıyor ?
+    * [Başka hangi şirketler Go'yu kullanıyor ?](usage/what-other-companies-use-go.md)
     * Go, C/C++ ile beraber çalışabilir mi ?
     * Hangi *IDE*ler Go'yu destekliyor ?
     * Go, Google'ın *protocol buffer*'ını destekliyor mu ?
