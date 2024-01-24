@@ -20,7 +20,7 @@
     * [Go nereden esinlenildi ?](origins/what-are-go-ancestors.md)
     * [Go'nun tasarımındaki yol göstericiler nelerdir ?](origins/what-are-the-guiding-principles-in-the-design.md)
 * Kullanım
-    * Google kendi içinde Go kullanıyor mu ?
+    * [Google kendi içinde Go kullanıyor mu ?](usage/is-google-using-go-internally.md)
     * Başka hangi şirketler Go'yu kullanıyor ?
     * Go, C/C++ ile beraber çalışabilir mi ?
     * Hangi *IDE*ler Go'yu destekliyor ?
