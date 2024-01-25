@@ -27,7 +27,7 @@
     * [Go, Google'ın *protocol buffer*'ını destekliyor mu ?](usage/does-go-support-googles-protocol-buffers.md)
     * [Go'nun anasayfasını başka bir dile tercüme edebilir miyim ?](usage/can-i-translate-the-go-home-page-into-another-language.md)
 * Dizayn
-    * Go *runtime*'a sahip mi ?
+    * [Go *runtime*'a sahip mi ?](design/does-go-have-a-runtime.md)
     * Unicode tanımlayıcılarından ne haber ?
     * Neden Go *X* özelliğine sahip değil ?
     * Go'ya *generic* yapılar ne eklendi ? 
