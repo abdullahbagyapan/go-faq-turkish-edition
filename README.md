@@ -22,7 +22,7 @@
 * Kullanım
     * [Google kendi içinde Go kullanıyor mu ?](usage/is-google-using-go-internally.md)
     * [Başka hangi şirketler Go'yu kullanıyor ?](usage/what-other-companies-use-go.md)
-    * Go, C/C++ ile beraber çalışabilir mi ?
+    * [Go, C/C++ ile beraber çalışabilir mi ?](usage/do-go-programs-link-with-c-cpp-programs.md)
     * Hangi *IDE*ler Go'yu destekliyor ?
     * Go, Google'ın *protocol buffer*'ını destekliyor mu ?
     * Go'nun anasayfasını başka bir dile tercüme edebilir miyim ?
