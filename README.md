@@ -28,7 +28,7 @@
     * [Go'nun anasayfasını başka bir dile tercüme edebilir miyim ?](usage/can-i-translate-the-go-home-page-into-another-language.md)
 * Dizayn
     * [Go *runtime*'a sahip mi ?](design/does-go-have-a-runtime.md)
-    * Unicode tanımlayıcılarından ne haber ?
+    * [Unicode tanımlayıcılarından ne haber ?](design/whats-up-with-unicode-identifiers.md)
     * Neden Go *X* özelliğine sahip değil ?
     * Go'ya *generic* yapılar ne eklendi ? 
     * Go yayınlandığında neden generic tipler eklenmedi ?
