@@ -29,7 +29,7 @@
 * Dizayn
     * [Go *runtime*'a sahip mi ?](design/does-go-have-a-runtime.md)
     * [Unicode tanımlayıcılarından ne haber ?](design/whats-up-with-unicode-identifiers.md)
-    * Neden Go *X* özelliğine sahip değil ?
+    * [Neden Go *X* özelliğine sahip değil ?](design/why-does-go-not-have-feature-x.md)
     * Go'ya *generic* yapılar ne eklendi ? 
     * Go yayınlandığında neden generic tipler eklenmedi ?
     * Neden Go'da *exception*'lar yok ?
