@@ -1,4 +1,4 @@
-# Sık Sorulan Sorular (SSS)
+# Go Sık Sorulan Sorular (SSS)
 
 > **Çevirmen Notu**
 >
