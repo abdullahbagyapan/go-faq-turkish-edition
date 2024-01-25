@@ -25,7 +25,7 @@
     * [Go, C/C++ ile beraber çalışabilir mi ?](usage/do-go-programs-link-with-c-cpp-programs.md)
     * [Hangi *IDE*ler Go'yu destekliyor ?](usage/what-ides-does-go-support.md)
     * [Go, Google'ın *protocol buffer*'ını destekliyor mu ?](usage/does-go-support-googles-protocol-buffers.md)
-    * Go'nun anasayfasını başka bir dile tercüme edebilir miyim ?
+    * [Go'nun anasayfasını başka bir dile tercüme edebilir miyim ?](usage/can-i-translate-the-go-home-page-into-another-language.md)
 * Dizayn
     * Go *runtime*'a sahip mi ?
     * Unicode tanımlayıcılarından ne haber ?
