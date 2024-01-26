@@ -33,7 +33,7 @@
     * [Go'ya *generic* yapılar ne eklendi ? ](design/when-did-go-get-generic-types.md)
     * [Go yayınlandığında neden generic tipler eklenmedi ?](design/why-was-go-initially-released-without-generic-types.md)
     * [Neden Go'da *exception*'lar yok ?](design/why-does-go-not-have-exceptions.md)
-    * Neden Go'da *assertion*'lar yok ?
+    * [Neden Go'da *assertion*'lar yok ?](design/why-does-go-not-have-assertions.md)
     * Neden CSP'ye göre *concurrency* inşa edildi ?
     * Neden *thread*'ler yerine *goroutine*'ler ?
     * Neden *map* işlemleri *atomic* değil ?
