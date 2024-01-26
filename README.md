@@ -35,7 +35,7 @@
     * [Neden Go'da *exception*'lar yok ?](design/why-does-go-not-have-exceptions.md)
     * [Neden Go'da *assertion*'lar yok ?](design/why-does-go-not-have-assertions.md)
     * [Neden CSP'ye göre *concurrency* inşa edildi ?](design/why-build-concurrency-on-the-ideas-of-csp.md)
-    * Neden *thread*'ler yerine *goroutine*'ler ?
+    * [Neden *thread*'ler yerine *goroutine*'ler ?](design/why-goroutines-instead-of-threads.md)
     * Neden *map* işlemleri *atomic* değil ?
     * Değiştirdiğim özellikleri kabul edecek misiniz ?
 * Türler
