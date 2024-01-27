@@ -40,7 +40,7 @@
     * [Değiştirdiğim özellikleri kabul edecek misiniz ?](design/will-you-accept-my-language-change.md)
 * Türler
     * [Go, *object-oriented* bir dil mi ?](types/is-go-an-object-oriented-language.md)
-    * Methodları nasıl dinamik yaparım ?
+    * [Methodları nasıl dinamik yaparım ?](types/how-do-i-get-dynamic-dispatch-of-methods.md)
     * Neden *inheritance* yok ?
     * Neden *len* bir fonksiyon, ve neden bir method değil ?
     * Neden Go, methodlarda ve operatörlerde *overloading*i desteklemiyor ?
