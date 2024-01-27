@@ -39,7 +39,7 @@
     * [Neden *map* işlemleri *atomic* değil ?](design/why-are-map-operations-not-defined-to-be-atomic.md)
     * [Değiştirdiğim özellikleri kabul edecek misiniz ?](design/will-you-accept-my-language-change.md)
 * Türler
-    * Go, *object-oriented* bir dil mi ?
+    * [Go, *object-oriented* bir dil mi ?](types/is-go-an-object-oriented-language.md)
     * Methodları nasıl dinamik yaparım ?
     * Neden *inheritance* yok ?
     * Neden *len* bir fonksiyon, ve neden bir method değil ?
