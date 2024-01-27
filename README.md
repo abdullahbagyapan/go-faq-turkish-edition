@@ -6,7 +6,7 @@
 >
 > Yazım veya çeviri yanlışı gördüğünüz yerleri bildirirseniz çok sevinirim.
 >
-> Son güncelleme tarihi: *26/1/2024*
+> Son güncelleme tarihi: *27/1/2024*
 
 
 ## İçerik
