@@ -37,7 +37,7 @@
     * [Neden CSP'ye göre *concurrency* inşa edildi ?](design/why-build-concurrency-on-the-ideas-of-csp.md)
     * [Neden *thread*'ler yerine *goroutine*'ler ?](design/why-goroutines-instead-of-threads.md)
     * [Neden *map* işlemleri *atomic* değil ?](design/why-are-map-operations-not-defined-to-be-atomic.md)
-    * Değiştirdiğim özellikleri kabul edecek misiniz ?
+    * [Değiştirdiğim özellikleri kabul edecek misiniz ?](design/will-you-accept-my-language-change.md)
 * Türler
     * Go, *object-oriented* bir dil mi ?
     * Methodları nasıl dinamik yaparım ?
