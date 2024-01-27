@@ -43,7 +43,7 @@
     * [Methodları nasıl dinamik yaparım ?](types/how-do-i-get-dynamic-dispatch-of-methods.md)
     * [Neden *inheritance* yok ?](types/why-is-there-no-type-inheritance.md)
     * [Neden *len* bir fonksiyon, ve neden bir method değil ?](types/why-is-len-a-function-and-not-a-method.md)
-    * Neden Go, methodlarda ve operatörlerde *overloading*i desteklemiyor ?
+    * [Neden Go, methodlarda ve operatörlerde *overloading*i desteklemiyor ?](types/why-does-go-not-support-overloading-of-methods-and-operators.md)
     * Neden Go'da *implement* tanımı yok ?
     * Nasıl type'ımın *interface*'i karşıladığını bilirim ?
     * Neden *T* type'ı *interface*'e eşit değil ?
