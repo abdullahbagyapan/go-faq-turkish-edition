@@ -41,7 +41,7 @@
 * Türler
     * [Go, *object-oriented* bir dil mi ?](types/is-go-an-object-oriented-language.md)
     * [Methodları nasıl dinamik yaparım ?](types/how-do-i-get-dynamic-dispatch-of-methods.md)
-    * Neden *inheritance* yok ?
+    * [Neden *inheritance* yok ?](types/why-is-there-no-type-inheritance.md)
     * Neden *len* bir fonksiyon, ve neden bir method değil ?
     * Neden Go, methodlarda ve operatörlerde *overloading*i desteklemiyor ?
     * Neden Go'da *implement* tanımı yok ?
