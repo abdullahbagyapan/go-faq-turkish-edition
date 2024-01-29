@@ -45,7 +45,7 @@
     * [Neden *len* bir fonksiyon, ve neden bir method değil ?](types/why-is-len-a-function-and-not-a-method.md)
     * [Neden Go, methodlarda ve operatörlerde *overloading*i desteklemiyor ?](types/why-does-go-not-support-overloading-of-methods-and-operators.md)
     * [Neden Go'da *implement* tanımı yok ?](types/why-doesnt-go-have-implements-declarations.md)
-    * Nasıl type'ımın *interface*'i karşıladığını bilirim ?
+    * [Nasıl type'ın *interface*'i implemente ettiğini bilirim ?](types/how-can-i-guarantee-my-type-satisfies-an-interface.md)
     * Neden *T* type'ı *interface*'e eşit değil ?
     * []T'yi []interface'e çevirebilir miyim ?
     * Eğer []1 ve []2 aynı type'dan geliyorsa, birbirlerine dönüştürebilir miyim ?
