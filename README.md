@@ -47,7 +47,7 @@
     * [Neden Go'da *implement* tanımı yok ?](types/why-doesnt-go-have-implements-declarations.md)
     * [Nasıl type'ın *interface*'i implemente ettiğini bilirim ?](types/how-can-i-guarantee-my-type-satisfies-an-interface.md)
     * [Neden *T* type'ı *interface*'e eşit değil ?](types/why-doesnt-type-t-satisfy-the-equal-interface.md)
-    * []T'yi []interface'e çevirebilir miyim ?
+    * [[]T'yi []interface'e çevirebilir miyim ?](types/can-i-convert-a-t-to-an-interface.md)
     * Eğer []1 ve []2 aynı type'dan geliyorsa, birbirlerine dönüştürebilir miyim ?
     * Neden *nil error*'um *nil*'e eşit değil ?
     * Neden *union*'lar yok, tıpkı *C*'deki gibi ?
