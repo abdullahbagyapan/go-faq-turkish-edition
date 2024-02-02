@@ -50,7 +50,7 @@
     * [[]T'yi []interface'e çevirebilir miyim ?](types/can-i-convert-a-t-to-an-interface.md)
     * [Eğer []1 ve []2 aynı type'dan geliyorsa, birbirlerine dönüştürebilir miyim ?](types/can-i-convert-t1-to-t2-if-t1-and-t2-have-the-same-underlying-type.md)
     * [Neden *nil error*'um *nil*'e eşit değil ?](types/why-is-my-nil-error-value-not-equal-to-nil.md)
-    * Neden *union*'lar yok, tıpkı *C*'deki gibi ?
+    * [Neden *union*'lar yok, tıpkı *C*'deki gibi ?](types/why-are-there-no-untagged-unions-as-in-c.md)
     * Neden Go'nun *variant type*'lar yok ?
     * Neden Go'nun *covariant result type*'ları yok ?
 * Değerler
