@@ -52,7 +52,7 @@
     * [Neden *nil error*'um *nil*'e eşit değil ?](types/why-is-my-nil-error-value-not-equal-to-nil.md)
     * [Neden *union*'lar yok, tıpkı *C*'deki gibi ?](types/why-are-there-no-untagged-unions-as-in-c.md)
     * [Neden Go'da *variant* türler yok ?](types/why-does-go-not-have-variant-types.md)
-    * Neden Go'nun *covariant result type*'ları yok ?
+    * [Neden Go'da *covariant result* türleri yok ?](types/why-does-go-not-have-covariant-result-types.md)
 * Değerler
     * Neden Go sayılar arası dönüşüm sağlamıyor ?
     * Go'da *constant*'lar nasıl çalışıyor ?
